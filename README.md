@@ -1,2 +1,1 @@
 # androSTG
-Android Template Repository
